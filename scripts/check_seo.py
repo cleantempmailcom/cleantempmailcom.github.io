@@ -57,7 +57,8 @@ def canonical_for(path):
 
 def main():
     errors = []
-    pages = {canonical_for(p): Page(p.read_text()) for p in sorted(ROOT.rglob('*.html'))}
+    # 404.html is the GitHub Pages error page: noindex, no canonical, not in the sitemap.
+    pages = {canonical_for(p): Page(p.read_text()) for p in sorted(ROOT.rglob('*.html')) if p.name != '404.html'}
     titles, descriptions = [], []
     link_count = 0
 
