@@ -52,6 +52,10 @@
 .article-sources ul{display:flex;flex-wrap:wrap;gap:10px 26px;padding:0;list-style:none;font-size:13px}
 .article-sources a{color:var(--accent);text-decoration:underline;text-underline-offset:4px}
 
+/* ---------- primary CTA after the intro ---------- */
+.article-cta{margin:26px 0 0;display:flex;flex-wrap:wrap;gap:14px;align-items:center}
+.article-cta .button{white-space:nowrap}
+
 /* ---------- related guides ---------- */
 .related-guides{margin-top:52px}
 .related-guides h2{font-size:25px;margin-bottom:24px}
@@ -88,6 +92,8 @@
   .article-callout{padding:20px}
   .article-code{padding:18px;font-size:12px}
   .article-sources ul{display:block;line-height:2.1}
+  .article-cta{margin-top:20px}
+  .article-cta .button{font-size:14px;padding:13px 20px}
   .related-grid{grid-template-columns:1fr}
   .article-next h2{line-height:1.5}
   .topic-article .article-toc{gap:12px}
