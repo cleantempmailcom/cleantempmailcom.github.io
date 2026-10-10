@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cleantempmailcom.github.io/cleantempmail-pages/sitemap.xml
+Sitemap: https://cleantempmailcom.github.io/sitemap.xml
