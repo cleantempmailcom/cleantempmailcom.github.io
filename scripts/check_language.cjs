@@ -34,7 +34,8 @@ function run(url, lang, dataset, stored) {
   return { ...state, links, location };
 }
 
-const files = fs.readdirSync(root, { recursive: true }).filter(file => file.endsWith('.html'));
+// 404.html is the noindex GitHub Pages error page; it has no canonical or language switch.
+const files = fs.readdirSync(root, { recursive: true }).filter(file => file.endsWith('.html') && path.basename(file) !== '404.html');
 for (const file of files) {
   const html = fs.readFileSync(path.join(root, file), 'utf8');
   const lang = html.match(/<html lang="([^"]+)"/)[1];
