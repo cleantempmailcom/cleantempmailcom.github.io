@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cleantempmailcom.github.io/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/" />
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/en/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/" />
@@ -30,14 +30,14 @@
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/guide/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/" />
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/en/guide/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/" />
@@ -97,5 +97,19 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/email-testing-api.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/email-testing-api.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/email-testing-api.html" />
+  </url>
+  <url>
+    <loc>https://cleantempmailcom.github.io/guide/spam-tracking-privacy.html</loc>
+    <lastmod>2026-10-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/spam-tracking-privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/spam-tracking-privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/spam-tracking-privacy.html" />
+  </url>
+  <url>
+    <loc>https://cleantempmailcom.github.io/en/guide/spam-tracking-privacy.html</loc>
+    <lastmod>2026-10-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/spam-tracking-privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/spam-tracking-privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/spam-tracking-privacy.html" />
   </url>
 </urlset>
