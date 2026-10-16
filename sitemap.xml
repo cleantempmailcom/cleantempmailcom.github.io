@@ -30,14 +30,14 @@
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/guide/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/" />
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/en/guide/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/" />
@@ -181,5 +181,19 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/parallel-tests-isolated-inboxes.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/parallel-tests-isolated-inboxes.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/parallel-tests-isolated-inboxes.html" />
+  </url>
+  <url>
+    <loc>https://cleantempmailcom.github.io/guide/online-shopping-temporary-email.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/online-shopping-temporary-email.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/online-shopping-temporary-email.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/online-shopping-temporary-email.html" />
+  </url>
+  <url>
+    <loc>https://cleantempmailcom.github.io/en/guide/online-shopping-temporary-email.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/online-shopping-temporary-email.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/online-shopping-temporary-email.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/online-shopping-temporary-email.html" />
   </url>
 </urlset>
