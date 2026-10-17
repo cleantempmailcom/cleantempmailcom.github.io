@@ -105,3 +105,18 @@
   .article-callout{background:#fff}
   .related-guides,.article-sources,.article-callout{break-inside:avoid}
 }
+/* 2026-10-17 visual refresh */
+.guide-hub .guide-card::after{content:counter(guide,decimal-leading-zero);font:700 15px/1 ui-monospace,SFMono-Regular,monospace;
+  letter-spacing:0;color:var(--accent);background:var(--soft);border-radius:999px;padding:6px 10px;top:22px;right:22px}
+.guide-hub .guide-card:first-child{background:radial-gradient(600px 260px at 100% 0,rgba(20,184,166,.18),transparent 70%),linear-gradient(135deg,#0b2a20,#06664a);border:0;color:#fff}
+.guide-hub .guide-card:first-child h2,.guide-hub .guide-card:first-child h2 a{color:#fff}
+.guide-hub .guide-card:first-child p{color:rgba(255,255,255,.78)}
+.guide-hub .guide-card:first-child .text-link{color:#bff0dc}
+.guide-hub .guide-card:first-child .eyebrow{color:#bff0dc}
+.guide-hub .guide-card:first-child .guide-icon{background:rgba(255,255,255,.12);color:#fff}
+.guide-hub .guide-card:first-child::after{background:rgba(255,255,255,.14);color:#fff}
+.guide-hub .guide-card h2{font-weight:750;letter-spacing:-.02em}
+.article-callout{border-radius:16px;border-left:4px solid var(--accent);background:var(--soft-2)}
+.article-code{border-radius:14px;background:#0b1713;color:#d8f3e7}
+.related-link{border-radius:16px;transition:transform .25s,box-shadow .25s,border-color .25s}
+.related-link:hover{transform:translateY(-3px);box-shadow:var(--shadow-md);border-color:#bfe3d2}
