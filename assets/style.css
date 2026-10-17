@@ -770,3 +770,6 @@ nav a{color:#34463f;font-weight:500}
 .use-grid h2{font-size:clamp(28px,3vw,40px);word-break:keep-all}
 h2{text-wrap:balance}
 @media (max-width:760px){.article-intro,.lead{font-size:16.5px;line-height:1.8}}
+/* 2026-10-17 real product logo */
+.brand-icon{background:url(logo.png) center/cover no-repeat;border-radius:10px;box-shadow:0 6px 14px -4px rgba(47,126,246,.45)}
+.brand-icon svg{display:none}
