@@ -30,14 +30,14 @@
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/guide/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/" />
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/en/guide/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/" />
@@ -209,5 +209,19 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/password-reset-email-test-checklist.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/password-reset-email-test-checklist.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/password-reset-email-test-checklist.html" />
+  </url>
+  <url>
+    <loc>https://cleantempmailcom.github.io/guide/find-which-site-leaked-your-email.html</loc>
+    <lastmod>2026-10-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/find-which-site-leaked-your-email.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/find-which-site-leaked-your-email.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/find-which-site-leaked-your-email.html" />
+  </url>
+  <url>
+    <loc>https://cleantempmailcom.github.io/en/guide/find-which-site-leaked-your-email.html</loc>
+    <lastmod>2026-10-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/find-which-site-leaked-your-email.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/find-which-site-leaked-your-email.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/find-which-site-leaked-your-email.html" />
   </url>
 </urlset>
