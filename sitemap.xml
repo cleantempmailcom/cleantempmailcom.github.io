@@ -30,14 +30,14 @@
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/guide/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/" />
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/en/guide/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/" />
@@ -265,5 +265,19 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/resend-verification-email-test-cases.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/resend-verification-email-test-cases.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/resend-verification-email-test-cases.html" />
+  </url>
+  <url>
+    <loc>https://cleantempmailcom.github.io/guide/free-trial-email-without-spam.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/free-trial-email-without-spam.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/free-trial-email-without-spam.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/free-trial-email-without-spam.html" />
+  </url>
+  <url>
+    <loc>https://cleantempmailcom.github.io/en/guide/free-trial-email-without-spam.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/free-trial-email-without-spam.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/free-trial-email-without-spam.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/free-trial-email-without-spam.html" />
   </url>
 </urlset>
