@@ -30,14 +30,14 @@
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/guide/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/" />
   </url>
   <url>
     <loc>https://cleantempmailcom.github.io/en/guide/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/" />
@@ -475,5 +475,19 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/online-course-signup-temporary-email.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/online-course-signup-temporary-email.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/online-course-signup-temporary-email.html" />
+  </url>
+  <url>
+    <loc>https://cleantempmailcom.github.io/guide/email-attachment-test-checklist.html</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/email-attachment-test-checklist.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/email-attachment-test-checklist.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/email-attachment-test-checklist.html" />
+  </url>
+  <url>
+    <loc>https://cleantempmailcom.github.io/en/guide/email-attachment-test-checklist.html</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://cleantempmailcom.github.io/guide/email-attachment-test-checklist.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleantempmailcom.github.io/en/guide/email-attachment-test-checklist.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleantempmailcom.github.io/guide/email-attachment-test-checklist.html" />
   </url>
 </urlset>
